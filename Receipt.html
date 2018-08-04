@@ -1,0 +1,85 @@
+<html>
+    <title>Receipt Final Section: Sport-a-shop </title>
+<head>
+    <meta content="The final receipt for a purchase is generated here. The number of items purchased along with their names and prices is printed. Grand total is calculated on GST"></meta>
+<style>
+body{
+	background-color:gray;
+}
+img{
+	width:100px;
+	height:100px;
+}
+fieldset{
+	width:300px;
+	height:500px;
+	border-color:black;
+	background-color:white;
+}
+table{
+	border-collapse:collapse;
+	border-bottom: 1px solid black;
+}
+th{
+	text-align:left;
+	width:100px;
+	height:20px;
+}
+td{
+	text-align:left;
+	width:110px;
+	height:30px;
+	border-bottom: 1px solid black;
+}
+#total{
+	border-bottom:none;
+}
+#home{
+    float:right;
+    left:1100px;
+    height:50px;
+    width:50px;
+    position:fixed;
+}
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123388435-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123388435-1');
+</script>
+</head>
+<body>
+<a href = "index.html"><img id ="home" src="Homebutton.png"></a>
+<center>
+<fieldset id ="receipt">
+<img style="height:50px; width:50px;"src="receipt.png">
+<h1>Payment receipt</h1>
+<table>
+<tr>
+<th>Item</th>
+<th> &nbsp&nbsp&nbsp  &nbsp&nbsp&nbsp &nbsp&nbsp&nbspPrice</th>
+</tr>
+</table><br><br>
+<div id ="total">
+<table>
+<tr>
+<td>Sub total</td>
+</tr>
+<tr>
+<td>CGST(9%)</td>
+</tr>
+<tr>
+<td>SGST(9%)</td>
+</tr>
+<tr>
+<td><b>Grand total<b></td>
+</tr>
+</table>
+</fieldset>
+</center>
+<p hidden>url("http://img.nowrunning.com/content/movie/2017/newto-20338/bg4.jpg?fbrefresh=120122647321")</p>
+</body>
+</html>

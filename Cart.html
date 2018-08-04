@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    body{
+        background-color:gray;
+    }
+        #remove{
+            top:5px;
+            height:20px;
+            width:20px;
+            position:relative;
+        left:10px;
+        }
+        #home{
+
+    float:right;
+    left:700px;
+    height:50px;
+    width:50px;
+}
+    </style>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Shopping Cart Checkout Widget</title>
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123388435-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-123388435-1');
+  </script>
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body style="background-color:gray;">
+    <a href = "index.html"><img id ="home" src="Homebutton.png"></a>
+  <div class="cart">
+    <div class="cart-top">
+      <h2 class="cart-top-title">Checkout</h2>
+      <div class="cart-top-info">0 Items</div>
+    </div>
+
+    <div class="cart-bottom" style="top:500px;">
+    Total : 0 Rs.
+    </div>
+  </div>
+</body>
+</html>
