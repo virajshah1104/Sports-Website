@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Cart.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Login.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Signup.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Badminton.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/TT.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Football.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/AboutUs.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/Contact.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>https://virajshah1104.github.io/Sports-Website/index.html</loc>
+  <lastmod>2018-09-24T10:27:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
